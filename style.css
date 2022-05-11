@@ -89,16 +89,3 @@
     object-fit: cover;
     border-radius: 10%;
 }
-.wrap {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    z-index: -1;
-    position: relative;
-}
-
-.actv {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-}
